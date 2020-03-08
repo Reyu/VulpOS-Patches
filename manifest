@@ -1,0 +1,3 @@
+00001-set-cloudflare-dns-default.patch
+00002-set-seedvault-as-dftl-bkp-provider.patch
+00003-scramble-pin-keypad.patch
